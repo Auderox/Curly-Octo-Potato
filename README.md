@@ -16,6 +16,7 @@ I don't really use Github, nor do I understand how it fully works, so... please 
 1. Do _not_ use this repository as a way to learn hate speech; or use it in projects to promote hateful ideology.
 2. Please respect my time. I maintain this repository as a hobby, not as a job.
 3. Please credit me if you use this repository in your projects.
+4. Contributors are required to be 18+ for safety and legal reasons.
 
 Thank you!
 
