@@ -1,5 +1,5 @@
 # The Curly-Octo-Potato Repository [^1]
-**Auderox's bad word blacklist, all in plain text files for ease-of-use.**
+**Auderox's bad word database, all in plain text files for ease-of-use.**
 
 — ➰🐙🥔 —
 
