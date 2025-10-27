@@ -22,9 +22,7 @@
 
 ###### Make sure to remove duplicate data.
 
-<br/>
-
-### <ins>Additional TBD Tasks:</ins> 
+## <ins>Additional TBD Tasks:</ins> 
 * [ ] Add regex and / or an ability to detect evasive action (what's the proper term?). ❕
   * Currently missing.
 * [ ] Add more unsafe links to the list.
@@ -41,7 +39,8 @@
   * Unsure if this was properly implemented.
   * Should probably credit an article that explains the meaning of such symbols. 
 
-#### <ins>Symbol Key</ins>
+### <ins>Symbol Key:</ins>
 * "If possible" — ❔
 * "Priority" — ❕
 * "High priority" — ❗
+
