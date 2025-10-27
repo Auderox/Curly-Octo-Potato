@@ -35,7 +35,7 @@
   * Currently missing. 
 * [ ] Find a credible source for the bad links. ❗
   * Could not find original source.
-* Find a credible source for the bad symbols. ❕
+* [ ] Find a credible source for the bad symbols. ❕
   * Unsure if this was properly implemented.
   * Should probably credit an article that explains the meaning of such symbols. 
 
@@ -43,4 +43,5 @@
 * "If possible" — ❔
 * "Priority" — ❕
 * "High priority" — ❗
+
 
