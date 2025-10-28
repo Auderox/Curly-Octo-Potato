@@ -51,6 +51,7 @@
  * Termlist is particularly lacking.
 * [ ] Add offensive kaomoji to the symbols list. ❔
   * Currently missing. 
+* [ ] Remove non-offensive terms from the bad words list. ❕
 * [ ] Find a credible source for the bad links. ❗
   * Could not find original source.
 * [ ] Find a credible source for the bad symbols. ❕
@@ -61,4 +62,5 @@
 * "If possible" — ❔
 * "Priority" — ❕
 * "High priority" — ❗
+
 
